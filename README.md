@@ -1,9 +1,8 @@
 # Personal Learning & Development Project
 
-## Learning Goal
-*Define your primary learning objective here. What skill, technology, or concept do you want to master?*
 
-Example: "Master React hooks and state management patterns for building scalable single-page applications."
+## Learning Goal
+Mi objetivo de aprendizaje es dominar Vue 3, comprender las arquitecturas utilizadas en el desarrollo frontend moderno y explorar frameworks que se integran con Vue, como Quasar. Quiero adquirir conocimientos sólidos sobre patrones de arquitectura frontend, mejores prácticas y el ecosistema de herramientas que potencian el desarrollo con Vue 3.
 
 ---
 
